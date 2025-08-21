@@ -161,7 +161,7 @@ After obtaining segmentation masks, vessel diameters are measured using VasoMetr
 ## Dataset Access
 
 The training dataset (42 fluorescent microscopy volumes) is available upon request:
-- **Contact**: j.jose@amsterdamumc.nl
+- **Contact**: j.jose@amsterdamumc.nl , m.r.khokhar@amsterdamumc.nl
 - **Format**: NIfTI files with binary masks
 - **Ethics**: Amsterdam UMC approved protocols
 
