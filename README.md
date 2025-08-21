@@ -15,7 +15,7 @@ This project addresses the challenge of manually measuring vessel diameters in f
 - Python 3.8+
 - CUDA-capable GPU (recommended: 16GB+ VRAM)
 - 32GB+ system RAM
-
+- Dataset used can be found internally for AMC users on: L:\Basic\divh\BMEPH\Ed\STUDENTS\Jills Jose\Dataset used - nnUNetv2
 ### 1. Environment Setup
 
 ```bash
