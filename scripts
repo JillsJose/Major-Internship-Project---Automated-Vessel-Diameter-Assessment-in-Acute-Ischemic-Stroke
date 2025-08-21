@@ -1,1 +1,6 @@
+git rm data_conversion.py
+git rm inference.py
+git rm training_pipeline.sh
+git commit -m "Removed duplicate files from root, kept in scripts/"
+git push origin main
 
